@@ -1,0 +1,35 @@
+.outter
+{
+    height: 530px;
+    width: 302px;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 400px;
+    background-color: grey;
+    box-shadow: 20px 20px 20px  grey;
+    
+}
+.inner
+{
+    position: relative;
+    bottom: -100px;
+}
+p{
+    font-size: 50px;
+}
+.size
+{
+    width: 90px;
+    border-radius: 5px;
+}
+#ans 
+{
+    position: relative;
+    bottom: 550px;
+    left: 400px;
+    
+     
+}
